@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "Bitcoin/routers"
+	_ "./routers"
 )
 
 func main() {

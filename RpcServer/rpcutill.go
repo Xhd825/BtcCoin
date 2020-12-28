@@ -1,8 +1,8 @@
 package RpcServer
 
 import (
-	"Bitcoin/entityS"
-	"Bitcoin/utils"
+	"../entityS"
+	"../utils"
 
 	"bytes"
 	"encoding/json"

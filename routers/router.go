@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"Bitcoin/controllers"
+	"../controllers"
 	"github.com/astaxie/beego"
 )
 
